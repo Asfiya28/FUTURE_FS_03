@@ -167,18 +167,3 @@ The forms currently show toast notifications. To connect to a real backend:
 
 ---
 
-## 📄 License
-
-This project is created for educational purposes. Feel free to modify and use it for your own local business projects!
-
----
-
-## 🙏 Credits
-
-- Images: [Unsplash](https://unsplash.com)
-- Icons: [Font Awesome](https://fontawesome.com)
-- Fonts: [Google Fonts](https://fonts.google.com)
-
----
-
-**Made with ❤️ and lots of ☕**
